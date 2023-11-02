@@ -2,7 +2,6 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://github.com/tuttitaka"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuttitaka&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Helio's github stats" /></a>
 <a href="https://github.com/tuttitaka"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuttitaka&layout=compact&theme=dracula&hide_border=true" /></a> 
  </div>
  
