@@ -46,7 +46,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/tuttitaka/tuttitaka/output/snake.svg" alt="Snake animation" />
-
-###
