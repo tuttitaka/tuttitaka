@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm a programmer FullStack developer from brazil</h2>
+<h2 align="left">I'm a programmer Front-End | React.js, Next.js, Node.js from brazil</h2>
 
 ###
 
